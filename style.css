@@ -93,7 +93,7 @@ body {
 @media (max-width: 801px) {
   body {
     padding: 0 1rem;
-    margin: 5rem auto;
+    margin: 2rem auto;
   }
 }
 @media (max-width: 500px) {
